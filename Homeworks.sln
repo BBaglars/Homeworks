@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ödev1.2", "Ödev1.2\Ödev1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{0407DF15-1664-4163-9617-2ECE3164DB69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{B46FB509-D606-495A-BCA2-0F376AFFF03D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{B46FB509-D606-495A-BCA2-0F376AFFF03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B2C8C26F-E64D-4116-992F-C6E51C44232D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B46FB509-D606-495A-BCA2-0F376AFFF03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B46FB509-D606-495A-BCA2-0F376AFFF03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B46FB509-D606-495A-BCA2-0F376AFFF03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C8C26F-E64D-4116-992F-C6E51C44232D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C8C26F-E64D-4116-992F-C6E51C44232D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C8C26F-E64D-4116-992F-C6E51C44232D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C8C26F-E64D-4116-992F-C6E51C44232D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
